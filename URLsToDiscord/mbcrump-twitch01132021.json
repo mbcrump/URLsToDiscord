@@ -1,0 +1,5650 @@
+{"comments": [
+  {
+    "_id": "e7c7a19f-9eeb-4cf2-888e-ae61b1b3a08c",
+    "created_at": "2021-01-13T19:55:47.392Z",
+    "updated_at": "2021-01-13T19:55:47.392Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 82.692,
+    "commenter": {
+      "display_name": "mbcrump",
+      "_id": "122162725",
+      "name": "mbcrump",
+      "type": "user",
+      "bio": "Christ follower that streams family-friendly ethical hacking, CTF challenges, live coding (python and C#), Linux awesomeness and more! ",
+      "created_at": "2016-04-19T01:20:34.340591Z",
+      "updated_at": "2021-01-13T17:30:40.925926Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/5920dfc7-9053-4e9f-87b3-753fbeea030d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "mbcrumAnothaOne mbcrum1sttry mbcrumCtrlCandV mbcrumSecurity mbcrumAnothaOne mbcrum1sttry mbcrumCtrlCandV mbcrumSecurity mbcrumAnothaOne mbcrum1sttry mbcrumCtrlCandV mbcrumSecurity mbcrumAnothaOne mbcrum1sttry mbcrumCtrlCandV mbcrumSecurity",
+      "emoticons": [
+        {
+          "_id": "303634615",
+          "begin": 0,
+          "end": 14
+        },
+        {
+          "_id": "303634592",
+          "begin": 16,
+          "end": 27
+        },
+        {
+          "_id": "303634576",
+          "begin": 29,
+          "end": 43
+        },
+        {
+          "_id": "303044726",
+          "begin": 45,
+          "end": 58
+        },
+        {
+          "_id": "303634615",
+          "begin": 60,
+          "end": 74
+        },
+        {
+          "_id": "303634592",
+          "begin": 76,
+          "end": 87
+        },
+        {
+          "_id": "303634576",
+          "begin": 89,
+          "end": 103
+        },
+        {
+          "_id": "303044726",
+          "begin": 105,
+          "end": 118
+        },
+        {
+          "_id": "303634615",
+          "begin": 120,
+          "end": 134
+        },
+        {
+          "_id": "303634592",
+          "begin": 136,
+          "end": 147
+        },
+        {
+          "_id": "303634576",
+          "begin": 149,
+          "end": 163
+        },
+        {
+          "_id": "303044726",
+          "begin": 165,
+          "end": 178
+        },
+        {
+          "_id": "303634615",
+          "begin": 180,
+          "end": 194
+        },
+        {
+          "_id": "303634592",
+          "begin": 196,
+          "end": 207
+        },
+        {
+          "_id": "303634576",
+          "begin": 209,
+          "end": 223
+        },
+        {
+          "_id": "303044726",
+          "begin": 225,
+          "end": 238
+        }
+      ],
+      "fragments": [
+        {
+          "text": "mbcrumAnothaOne",
+          "emoticon": {
+            "emoticon_id": "303634615",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrum1sttry",
+          "emoticon": {
+            "emoticon_id": "303634592",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumCtrlCandV",
+          "emoticon": {
+            "emoticon_id": "303634576",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumSecurity",
+          "emoticon": {
+            "emoticon_id": "303044726",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumAnothaOne",
+          "emoticon": {
+            "emoticon_id": "303634615",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrum1sttry",
+          "emoticon": {
+            "emoticon_id": "303634592",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumCtrlCandV",
+          "emoticon": {
+            "emoticon_id": "303634576",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumSecurity",
+          "emoticon": {
+            "emoticon_id": "303044726",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumAnothaOne",
+          "emoticon": {
+            "emoticon_id": "303634615",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrum1sttry",
+          "emoticon": {
+            "emoticon_id": "303634592",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumCtrlCandV",
+          "emoticon": {
+            "emoticon_id": "303634576",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumSecurity",
+          "emoticon": {
+            "emoticon_id": "303044726",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumAnothaOne",
+          "emoticon": {
+            "emoticon_id": "303634615",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrum1sttry",
+          "emoticon": {
+            "emoticon_id": "303634592",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumCtrlCandV",
+          "emoticon": {
+            "emoticon_id": "303634576",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumSecurity",
+          "emoticon": {
+            "emoticon_id": "303044726",
+            "emoticon_set_id": ""
+          }
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "broadcaster",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        },
+        {
+          "_id": "sub-gifter",
+          "version": "50"
+        }
+      ],
+      "user_color": "#008000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "25396a90-e7a1-4c58-be5b-79c7fa9c7342",
+    "created_at": "2021-01-13T19:56:24.811Z",
+    "updated_at": "2021-01-13T19:56:24.811Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 120.111,
+    "commenter": {
+      "display_name": "mbcrump",
+      "_id": "122162725",
+      "name": "mbcrump",
+      "type": "user",
+      "bio": "Christ follower that streams family-friendly ethical hacking, CTF challenges, live coding (python and C#), Linux awesomeness and more! ",
+      "created_at": "2016-04-19T01:20:34.340591Z",
+      "updated_at": "2021-01-13T17:30:40.925926Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/5920dfc7-9053-4e9f-87b3-753fbeea030d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "sup",
+      "fragments": [
+        {
+          "text": "sup"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "broadcaster",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        },
+        {
+          "_id": "sub-gifter",
+          "version": "50"
+        }
+      ],
+      "user_color": "#008000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "1c755c6a-1364-4d6d-9d4e-6dd0f8ea48e7",
+    "created_at": "2021-01-13T19:56:35.706Z",
+    "updated_at": "2021-01-13T19:56:35.706Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 131.006,
+    "commenter": {
+      "display_name": "mbcrump",
+      "_id": "122162725",
+      "name": "mbcrump",
+      "type": "user",
+      "bio": "Christ follower that streams family-friendly ethical hacking, CTF challenges, live coding (python and C#), Linux awesomeness and more! ",
+      "created_at": "2016-04-19T01:20:34.340591Z",
+      "updated_at": "2021-01-13T17:30:40.925926Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/5920dfc7-9053-4e9f-87b3-753fbeea030d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "how ya doing, folks?",
+      "fragments": [
+        {
+          "text": "how ya doing, folks?"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "broadcaster",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        },
+        {
+          "_id": "sub-gifter",
+          "version": "50"
+        }
+      ],
+      "user_color": "#008000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "ce4d47f1-3ebc-41ef-af27-95fbcd37f85f",
+    "created_at": "2021-01-13T19:56:41.805Z",
+    "updated_at": "2021-01-13T19:56:41.805Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 137.105,
+    "commenter": {
+      "display_name": "mbcrump",
+      "_id": "122162725",
+      "name": "mbcrump",
+      "type": "user",
+      "bio": "Christ follower that streams family-friendly ethical hacking, CTF challenges, live coding (python and C#), Linux awesomeness and more! ",
+      "created_at": "2016-04-19T01:20:34.340591Z",
+      "updated_at": "2021-01-13T17:30:40.925926Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/5920dfc7-9053-4e9f-87b3-753fbeea030d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "mbcrumAnothaOne mbcrum1sttry mbcrumCtrlCandV mbcrumSecurity mbcrumAnothaOne mbcrum1sttry mbcrumCtrlCandV mbcrumSecurity mbcrumAnothaOne mbcrum1sttry mbcrumCtrlCandV mbcrumSecurity mbcrumAnothaOne mbcrum1sttry mbcrumCtrlCandV mbcrumSecurity",
+      "emoticons": [
+        {
+          "_id": "303634615",
+          "begin": 0,
+          "end": 14
+        },
+        {
+          "_id": "303634592",
+          "begin": 16,
+          "end": 27
+        },
+        {
+          "_id": "303634576",
+          "begin": 29,
+          "end": 43
+        },
+        {
+          "_id": "303044726",
+          "begin": 45,
+          "end": 58
+        },
+        {
+          "_id": "303634615",
+          "begin": 60,
+          "end": 74
+        },
+        {
+          "_id": "303634592",
+          "begin": 76,
+          "end": 87
+        },
+        {
+          "_id": "303634576",
+          "begin": 89,
+          "end": 103
+        },
+        {
+          "_id": "303044726",
+          "begin": 105,
+          "end": 118
+        },
+        {
+          "_id": "303634615",
+          "begin": 120,
+          "end": 134
+        },
+        {
+          "_id": "303634592",
+          "begin": 136,
+          "end": 147
+        },
+        {
+          "_id": "303634576",
+          "begin": 149,
+          "end": 163
+        },
+        {
+          "_id": "303044726",
+          "begin": 165,
+          "end": 178
+        },
+        {
+          "_id": "303634615",
+          "begin": 180,
+          "end": 194
+        },
+        {
+          "_id": "303634592",
+          "begin": 196,
+          "end": 207
+        },
+        {
+          "_id": "303634576",
+          "begin": 209,
+          "end": 223
+        },
+        {
+          "_id": "303044726",
+          "begin": 225,
+          "end": 238
+        }
+      ],
+      "fragments": [
+        {
+          "text": "mbcrumAnothaOne",
+          "emoticon": {
+            "emoticon_id": "303634615",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrum1sttry",
+          "emoticon": {
+            "emoticon_id": "303634592",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumCtrlCandV",
+          "emoticon": {
+            "emoticon_id": "303634576",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumSecurity",
+          "emoticon": {
+            "emoticon_id": "303044726",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumAnothaOne",
+          "emoticon": {
+            "emoticon_id": "303634615",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrum1sttry",
+          "emoticon": {
+            "emoticon_id": "303634592",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumCtrlCandV",
+          "emoticon": {
+            "emoticon_id": "303634576",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumSecurity",
+          "emoticon": {
+            "emoticon_id": "303044726",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumAnothaOne",
+          "emoticon": {
+            "emoticon_id": "303634615",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrum1sttry",
+          "emoticon": {
+            "emoticon_id": "303634592",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumCtrlCandV",
+          "emoticon": {
+            "emoticon_id": "303634576",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumSecurity",
+          "emoticon": {
+            "emoticon_id": "303044726",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumAnothaOne",
+          "emoticon": {
+            "emoticon_id": "303634615",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrum1sttry",
+          "emoticon": {
+            "emoticon_id": "303634592",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumCtrlCandV",
+          "emoticon": {
+            "emoticon_id": "303634576",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumSecurity",
+          "emoticon": {
+            "emoticon_id": "303044726",
+            "emoticon_set_id": ""
+          }
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "broadcaster",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        },
+        {
+          "_id": "sub-gifter",
+          "version": "50"
+        }
+      ],
+      "user_color": "#008000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "b8d7c633-3bd2-4c74-ac77-e64cd1c1c5e0",
+    "created_at": "2021-01-13T19:56:57.068Z",
+    "updated_at": "2021-01-13T19:56:57.068Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 152.368,
+    "commenter": {
+      "display_name": "abstract_form",
+      "_id": "581402367",
+      "name": "abstract_form",
+      "type": "user",
+      "bio": "Information Security research ",
+      "created_at": "2020-09-10T01:49:06.645541Z",
+      "updated_at": "2021-01-10T15:48:43.558467Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "hello",
+      "fragments": [
+        {
+          "text": "hello"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "9ae6e38d-56da-46da-906d-caeb2be2e150",
+    "created_at": "2021-01-13T19:57:35.336Z",
+    "updated_at": "2021-01-13T19:57:35.336Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 190.636,
+    "commenter": {
+      "display_name": "mbcrump",
+      "_id": "122162725",
+      "name": "mbcrump",
+      "type": "user",
+      "bio": "Christ follower that streams family-friendly ethical hacking, CTF challenges, live coding (python and C#), Linux awesomeness and more! ",
+      "created_at": "2016-04-19T01:20:34.340591Z",
+      "updated_at": "2021-01-13T17:30:40.925926Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/5920dfc7-9053-4e9f-87b3-753fbeea030d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "sup sup @abstract_form",
+      "fragments": [
+        {
+          "text": "sup sup @abstract_form"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "broadcaster",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        },
+        {
+          "_id": "sub-gifter",
+          "version": "50"
+        }
+      ],
+      "user_color": "#008000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "99dea582-3385-4e22-9668-16718aedd253",
+    "created_at": "2021-01-13T19:57:52.778Z",
+    "updated_at": "2021-01-13T19:57:52.778Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 208.078,
+    "commenter": {
+      "display_name": "abstract_form",
+      "_id": "581402367",
+      "name": "abstract_form",
+      "type": "user",
+      "bio": "Information Security research ",
+      "created_at": "2020-09-10T01:49:06.645541Z",
+      "updated_at": "2021-01-10T15:48:43.558467Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "same hack different day >.>",
+      "fragments": [
+        {
+          "text": "same hack different day >.>"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "11db0457-57df-4527-9f2e-ef466b55c52c",
+    "created_at": "2021-01-13T19:58:37.283Z",
+    "updated_at": "2021-01-13T19:58:37.283Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 252.583,
+    "commenter": {
+      "display_name": "mbcrump",
+      "_id": "122162725",
+      "name": "mbcrump",
+      "type": "user",
+      "bio": "Christ follower that streams family-friendly ethical hacking, CTF challenges, live coding (python and C#), Linux awesomeness and more! ",
+      "created_at": "2016-04-19T01:20:34.340591Z",
+      "updated_at": "2021-01-13T17:30:40.925926Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/5920dfc7-9053-4e9f-87b3-753fbeea030d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "get your bash shell ready",
+      "fragments": [
+        {
+          "text": "get your bash shell ready"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "broadcaster",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        },
+        {
+          "_id": "sub-gifter",
+          "version": "50"
+        }
+      ],
+      "user_color": "#008000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "1e3083bf-a522-4b84-bf2e-205a9ebf98f8",
+    "created_at": "2021-01-13T19:59:01.83Z",
+    "updated_at": "2021-01-13T19:59:01.83Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 277.13,
+    "commenter": {
+      "display_name": "abstract_form",
+      "_id": "581402367",
+      "name": "abstract_form",
+      "type": "user",
+      "bio": "Information Security research ",
+      "created_at": "2020-09-10T01:49:06.645541Z",
+      "updated_at": "2021-01-10T15:48:43.558467Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "ffuf has left me desolate in a storm of nearly a billion user enum attempts... hydra got it for me on a single list : )",
+      "fragments": [
+        {
+          "text": "ffuf has left me desolate in a storm of nearly a billion user enum attempts... hydra got it for me on a single list : )"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "90d15551-17f9-44e0-9d3c-dd290d9eca66",
+    "created_at": "2021-01-13T20:00:09.108Z",
+    "updated_at": "2021-01-13T20:00:09.108Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 344.408,
+    "commenter": {
+      "display_name": "Streamlabs",
+      "_id": "105166207",
+      "name": "streamlabs",
+      "type": "user",
+      "bio": "We make alerts and other tools for streamers!\rstreamlabs.com",
+      "created_at": "2015-10-25T14:19:16.301253Z",
+      "updated_at": "2021-01-13T18:38:47.350779Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/b856671e-63ed-45c5-a471-316fc1e3b83b-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "Type !drop to drop into my screen!",
+      "fragments": [
+        {
+          "text": "Type !drop to drop into my screen!"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "partner",
+          "version": "1"
+        }
+      ],
+      "user_color": "#32C3A2",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "1a8f1bcb-d964-4ad6-b111-cc04d5e635af",
+    "created_at": "2021-01-13T20:00:20.708Z",
+    "updated_at": "2021-01-13T20:00:20.708Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 356.008,
+    "commenter": {
+      "display_name": "mbcrump",
+      "_id": "122162725",
+      "name": "mbcrump",
+      "type": "user",
+      "bio": "Christ follower that streams family-friendly ethical hacking, CTF challenges, live coding (python and C#), Linux awesomeness and more! ",
+      "created_at": "2016-04-19T01:20:34.340591Z",
+      "updated_at": "2021-01-13T17:30:40.925926Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/5920dfc7-9053-4e9f-87b3-753fbeea030d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "View recordings of this stream (including fastcuts) on my YouTube https://www.youtube.com/user/mbcrump/",
+      "fragments": [
+        {
+          "text": "View recordings of this stream (including fastcuts) on my YouTube https://www.youtube.com/user/mbcrump/"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "broadcaster",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        },
+        {
+          "_id": "sub-gifter",
+          "version": "50"
+        }
+      ],
+      "user_color": "#008000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "a2f35134-92b2-4090-a318-3624529c8a9b",
+    "created_at": "2021-01-13T20:00:37.752Z",
+    "updated_at": "2021-01-13T20:00:37.752Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 373.052,
+    "commenter": {
+      "display_name": "Streamlabs",
+      "_id": "105166207",
+      "name": "streamlabs",
+      "type": "user",
+      "bio": "We make alerts and other tools for streamers!\rstreamlabs.com",
+      "created_at": "2015-10-25T14:19:16.301253Z",
+      "updated_at": "2021-01-13T18:38:47.350779Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/b856671e-63ed-45c5-a471-316fc1e3b83b-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "Subscribe to my YouTube channel to catch up on past hacking streams, exclusive content, and more! https://youtube.com/mbcrump?sub_confirmation=1",
+      "fragments": [
+        {
+          "text": "Subscribe to my YouTube channel to catch up on past hacking streams, exclusive content, and more! https://youtube.com/mbcrump?sub_confirmation=1"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "partner",
+          "version": "1"
+        }
+      ],
+      "user_color": "#32C3A2",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "7c170d68-a96f-4bf6-ba02-0ce6b727373f",
+    "created_at": "2021-01-13T20:01:06.416Z",
+    "updated_at": "2021-01-13T20:01:06.416Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 401.716,
+    "commenter": {
+      "display_name": "Streamlabs",
+      "_id": "105166207",
+      "name": "streamlabs",
+      "type": "user",
+      "bio": "We make alerts and other tools for streamers!\rstreamlabs.com",
+      "created_at": "2015-10-25T14:19:16.301253Z",
+      "updated_at": "2021-01-13T18:38:47.350779Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/b856671e-63ed-45c5-a471-316fc1e3b83b-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "Follow Michael on Twitter at https://twitter.com/mbcrump because he is a nice guy and appreciates you spending time with him today.",
+      "fragments": [
+        {
+          "text": "Follow Michael on Twitter at https://twitter.com/mbcrump because he is a nice guy and appreciates you spending time with him today."
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "partner",
+          "version": "1"
+        }
+      ],
+      "user_color": "#32C3A2",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "882fa48d-cd57-4f0c-9678-03771f00f896",
+    "created_at": "2021-01-13T20:01:50.508Z",
+    "updated_at": "2021-01-13T20:01:50.508Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 445.808,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "henlo awesome people",
+      "fragments": [
+        {
+          "text": "henlo awesome people"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "5444064d-dadb-4124-955e-9273a4aa3584",
+    "created_at": "2021-01-13T20:02:29.886Z",
+    "updated_at": "2021-01-13T20:02:29.886Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 485.186,
+    "commenter": {
+      "display_name": "mbcrump",
+      "_id": "122162725",
+      "name": "mbcrump",
+      "type": "user",
+      "bio": "Christ follower that streams family-friendly ethical hacking, CTF challenges, live coding (python and C#), Linux awesomeness and more! ",
+      "created_at": "2016-04-19T01:20:34.340591Z",
+      "updated_at": "2021-01-13T17:30:40.925926Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/5920dfc7-9053-4e9f-87b3-753fbeea030d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "mbcrumAnothaOne mbcrum1sttry mbcrumCtrlCandV mbcrumSecurity mbcrumAnothaOne mbcrum1sttry mbcrumCtrlCandV mbcrumSecurity mbcrumAnothaOne mbcrum1sttry mbcrumCtrlCandV mbcrumSecurity mbcrumAnothaOne mbcrum1sttry mbcrumCtrlCandV mbcrumSecurity",
+      "emoticons": [
+        {
+          "_id": "303634615",
+          "begin": 0,
+          "end": 14
+        },
+        {
+          "_id": "303634592",
+          "begin": 16,
+          "end": 27
+        },
+        {
+          "_id": "303634576",
+          "begin": 29,
+          "end": 43
+        },
+        {
+          "_id": "303044726",
+          "begin": 45,
+          "end": 58
+        },
+        {
+          "_id": "303634615",
+          "begin": 60,
+          "end": 74
+        },
+        {
+          "_id": "303634592",
+          "begin": 76,
+          "end": 87
+        },
+        {
+          "_id": "303634576",
+          "begin": 89,
+          "end": 103
+        },
+        {
+          "_id": "303044726",
+          "begin": 105,
+          "end": 118
+        },
+        {
+          "_id": "303634615",
+          "begin": 120,
+          "end": 134
+        },
+        {
+          "_id": "303634592",
+          "begin": 136,
+          "end": 147
+        },
+        {
+          "_id": "303634576",
+          "begin": 149,
+          "end": 163
+        },
+        {
+          "_id": "303044726",
+          "begin": 165,
+          "end": 178
+        },
+        {
+          "_id": "303634615",
+          "begin": 180,
+          "end": 194
+        },
+        {
+          "_id": "303634592",
+          "begin": 196,
+          "end": 207
+        },
+        {
+          "_id": "303634576",
+          "begin": 209,
+          "end": 223
+        },
+        {
+          "_id": "303044726",
+          "begin": 225,
+          "end": 238
+        }
+      ],
+      "fragments": [
+        {
+          "text": "mbcrumAnothaOne",
+          "emoticon": {
+            "emoticon_id": "303634615",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrum1sttry",
+          "emoticon": {
+            "emoticon_id": "303634592",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumCtrlCandV",
+          "emoticon": {
+            "emoticon_id": "303634576",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumSecurity",
+          "emoticon": {
+            "emoticon_id": "303044726",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumAnothaOne",
+          "emoticon": {
+            "emoticon_id": "303634615",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrum1sttry",
+          "emoticon": {
+            "emoticon_id": "303634592",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumCtrlCandV",
+          "emoticon": {
+            "emoticon_id": "303634576",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumSecurity",
+          "emoticon": {
+            "emoticon_id": "303044726",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumAnothaOne",
+          "emoticon": {
+            "emoticon_id": "303634615",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrum1sttry",
+          "emoticon": {
+            "emoticon_id": "303634592",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumCtrlCandV",
+          "emoticon": {
+            "emoticon_id": "303634576",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumSecurity",
+          "emoticon": {
+            "emoticon_id": "303044726",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumAnothaOne",
+          "emoticon": {
+            "emoticon_id": "303634615",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrum1sttry",
+          "emoticon": {
+            "emoticon_id": "303634592",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumCtrlCandV",
+          "emoticon": {
+            "emoticon_id": "303634576",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumSecurity",
+          "emoticon": {
+            "emoticon_id": "303044726",
+            "emoticon_set_id": ""
+          }
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "broadcaster",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        },
+        {
+          "_id": "sub-gifter",
+          "version": "50"
+        }
+      ],
+      "user_color": "#008000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "b3c21dda-924f-4b2e-a856-7fe1d53e233b",
+    "created_at": "2021-01-13T20:02:43.671Z",
+    "updated_at": "2021-01-13T20:02:43.671Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 498.971,
+    "commenter": {
+      "display_name": "thed2",
+      "_id": "47106129",
+      "name": "thed2",
+      "type": "user",
+      "bio": null,
+      "created_at": "2013-08-04T14:22:29.453082Z",
+      "updated_at": "2021-01-13T21:21:40.287901Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/thed2-profile_image-3f220fe4f3b04f73-300x300.jpeg"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "he4y",
+      "fragments": [
+        {
+          "text": "he4y"
+        }
+      ],
+      "is_action": false,
+      "user_color": "#000000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "e4135c9e-1527-413b-a10b-2f580beb0bd9",
+    "created_at": "2021-01-13T20:03:18.503Z",
+    "updated_at": "2021-01-13T20:03:18.503Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 533.803,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "I am good. I was doing some offensive ruby stuff",
+      "fragments": [
+        {
+          "text": "I am good. I was doing some offensive ruby stuff"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "02aba9c6-670c-4161-bf44-83dd232289ae",
+    "created_at": "2021-01-13T20:06:10.023Z",
+    "updated_at": "2021-01-13T20:06:10.023Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 705.323,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "Is it ok to show feature.chat dialouge on your stream? Because it does comes in youtube videos @mbcrump",
+      "fragments": [
+        {
+          "text": "Is it ok to show feature.chat dialouge on your stream? Because it does comes in youtube videos @mbcrump"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "2c3e91c5-7fb0-4374-af46-2590e3110d3a",
+    "created_at": "2021-01-13T20:06:13.857Z",
+    "updated_at": "2021-01-13T20:06:13.857Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 709.157,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "whoami",
+      "fragments": [
+        {
+          "text": "whoami"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "9869a226-a45c-4243-ab40-0bbba6aedb9b",
+    "created_at": "2021-01-13T20:06:23.069Z",
+    "updated_at": "2021-01-13T20:06:23.069Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 718.369,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "vscode in kali.. seeing that first tym",
+      "fragments": [
+        {
+          "text": "vscode in kali.. seeing that first tym"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "66ca8fa2-95bb-467a-af0d-cec038a5dca3",
+    "created_at": "2021-01-13T20:07:05.865Z",
+    "updated_at": "2021-01-13T20:07:05.865Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 761.165,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "id",
+      "fragments": [
+        {
+          "text": "id"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "9506839e-249f-49a5-9fa2-de7aa3ee110c",
+    "created_at": "2021-01-13T20:07:42.948Z",
+    "updated_at": "2021-01-13T20:07:42.948Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 798.248,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "nmap -sS -sC -v localhost 😄",
+      "fragments": [
+        {
+          "text": "nmap -sS -sC -v localhost 😄"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "225008a5-8119-45fd-a56c-d72ae9568a2b",
+    "created_at": "2021-01-13T20:08:04.601Z",
+    "updated_at": "2021-01-13T20:08:04.601Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 819.901,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "Wow discord is now showing the stream notification",
+      "fragments": [
+        {
+          "text": "Wow discord is now showing the stream notification"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "36121567-9bf8-4597-b5e9-fdd4a65a7c93",
+    "created_at": "2021-01-13T20:08:19.032Z",
+    "updated_at": "2021-01-13T20:08:19.032Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 834.332,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "w",
+      "fragments": [
+        {
+          "text": "w"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "84d47c73-9c68-43ad-8635-a855b6ba2745",
+    "created_at": "2021-01-13T20:09:31.647Z",
+    "updated_at": "2021-01-13T20:09:31.647Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 906.947,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "if you run `watch w` it will show you updates in the real time",
+      "fragments": [
+        {
+          "text": "if you run `watch w` it will show you updates in the real time"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "cd238ac0-b5c2-4834-9282-3a34b4e9ba5a",
+    "created_at": "2021-01-13T20:10:42.533Z",
+    "updated_at": "2021-01-13T20:10:42.533Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 977.833,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "linpeas gives u all info",
+      "fragments": [
+        {
+          "text": "linpeas gives u all info"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "35bd60ca-cfa7-4d65-aa71-7c6845249684",
+    "created_at": "2021-01-13T20:11:01.994Z",
+    "updated_at": "2021-01-13T20:11:01.994Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 997.294,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "it actually gives a lot of it @manna_soumya LUL",
+      "emoticons": [
+        {
+          "_id": "425618",
+          "begin": 44,
+          "end": 46
+        }
+      ],
+      "fragments": [
+        {
+          "text": "it actually gives a lot of it @manna_soumya "
+        },
+        {
+          "text": "LUL",
+          "emoticon": {
+            "emoticon_id": "425618",
+            "emoticon_set_id": ""
+          }
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "c2b78fb3-11dd-4c91-97cd-0bc88dddf43f",
+    "created_at": "2021-01-13T20:12:18.658Z",
+    "updated_at": "2021-01-13T20:12:18.658Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1073.958,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "you have to get linpeas from github",
+      "fragments": [
+        {
+          "text": "you have to get linpeas from github"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "83e2a04f-27db-4a3d-a20d-91462cff38f3",
+    "created_at": "2021-01-13T20:13:06.712Z",
+    "updated_at": "2021-01-13T20:13:06.712Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1122.012,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "u inject linpeas from ur nc reverse shell",
+      "fragments": [
+        {
+          "text": "u inject linpeas from ur nc reverse shell"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "d8fefd99-5f7c-4244-8099-d0aca59da130",
+    "created_at": "2021-01-13T20:13:24.49Z",
+    "updated_at": "2021-01-13T20:13:24.49Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1139.79,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "oooohh this one is cool",
+      "fragments": [
+        {
+          "text": "oooohh this one is cool"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "f6dfa669-6b5e-4eb3-a767-951dfdae4a57",
+    "created_at": "2021-01-13T20:13:29.532Z",
+    "updated_at": "2021-01-13T20:13:29.532Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1144.832,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "didnt knew about that",
+      "fragments": [
+        {
+          "text": "didnt knew about that"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "7dbeddc4-e081-45fc-9ebf-8628f2ecff1e",
+    "created_at": "2021-01-13T20:13:36.956Z",
+    "updated_at": "2021-01-13T20:13:36.956Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1152.256,
+    "commenter": {
+      "display_name": "Cureben",
+      "_id": "183979929",
+      "name": "cureben",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-12-01T22:03:10.354158Z",
+      "updated_at": "2020-11-30T21:17:27.548067Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/2d0b8f00-035a-4590-8419-790bc7e20e1c-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "could u point me to guide how you created prompt only with > and 🐧 and home above?",
+      "fragments": [
+        {
+          "text": "could u point me to guide how you created prompt only with > and 🐧 and home above?"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "premium",
+          "version": "1"
+        }
+      ],
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "7c441e6d-949d-463e-b062-9cdbecfa92a3",
+    "created_at": "2021-01-13T20:14:26.41Z",
+    "updated_at": "2021-01-13T20:14:26.41Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1201.71,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "yes try that with a persistent reverse shell like pwncat and upload linpeas and run it .. it saves a lot of info gathering on attacker machine",
+      "fragments": [
+        {
+          "text": "yes try that with a persistent reverse shell like pwncat and upload linpeas and run it .. it saves a lot of info gathering on attacker machine"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "55992ca1-986e-408a-82de-1b13d8a36be6",
+    "created_at": "2021-01-13T20:14:49.146Z",
+    "updated_at": "2021-01-13T20:14:49.146Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1224.446,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "@Cureben he is using zsh with powerlevel10k theme",
+      "fragments": [
+        {
+          "text": "@Cureben he is using zsh with powerlevel10k theme"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "5212ef68-3e78-413a-a94d-bff1b6a47086",
+    "created_at": "2021-01-13T20:14:54.968Z",
+    "updated_at": "2021-01-13T20:14:54.968Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1230.268,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "@Cureben you can checkout https://www.youtube.com/watch?v=mQGYePYXWVo&t=3s",
+      "fragments": [
+        {
+          "text": "@Cureben you can checkout https://www.youtube.com/watch?v=mQGYePYXWVo&t=3s"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "772f9854-5b35-4002-b2cc-2cb4ddc95511",
+    "created_at": "2021-01-13T20:15:24.518Z",
+    "updated_at": "2021-01-13T20:15:24.518Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1259.818,
+    "commenter": {
+      "display_name": "mbcrump",
+      "_id": "122162725",
+      "name": "mbcrump",
+      "type": "user",
+      "bio": "Christ follower that streams family-friendly ethical hacking, CTF challenges, live coding (python and C#), Linux awesomeness and more! ",
+      "created_at": "2016-04-19T01:20:34.340591Z",
+      "updated_at": "2021-01-13T17:30:40.925926Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/5920dfc7-9053-4e9f-87b3-753fbeea030d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "View recordings of this stream (including fastcuts) on my YouTube https://www.youtube.com/user/mbcrump/",
+      "fragments": [
+        {
+          "text": "View recordings of this stream (including fastcuts) on my YouTube https://www.youtube.com/user/mbcrump/"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "broadcaster",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        },
+        {
+          "_id": "sub-gifter",
+          "version": "50"
+        }
+      ],
+      "user_color": "#008000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "b73c552e-2ea3-4b68-b2af-1022fa705829",
+    "created_at": "2021-01-13T20:15:36.603Z",
+    "updated_at": "2021-01-13T20:15:36.603Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1271.903,
+    "commenter": {
+      "display_name": "Cureben",
+      "_id": "183979929",
+      "name": "cureben",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-12-01T22:03:10.354158Z",
+      "updated_at": "2020-11-30T21:17:27.548067Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/2d0b8f00-035a-4590-8419-790bc7e20e1c-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "thanks",
+      "fragments": [
+        {
+          "text": "thanks"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "premium",
+          "version": "1"
+        }
+      ],
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "3d0d117d-9ead-40ec-b3a2-0383c2675c5a",
+    "created_at": "2021-01-13T20:16:41.096Z",
+    "updated_at": "2021-01-13T20:16:41.096Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1336.396,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "you can use ctrl + L to clear screen",
+      "fragments": [
+        {
+          "text": "you can use ctrl + L to clear screen"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "f8547ec7-22ea-4b5a-a14e-781769afa9cf",
+    "created_at": "2021-01-13T20:16:53.351Z",
+    "updated_at": "2021-01-13T20:16:53.351Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1348.651,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "du -h",
+      "fragments": [
+        {
+          "text": "du -h"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "a6092da0-ba61-435b-99c8-55a703de26d7",
+    "created_at": "2021-01-13T20:17:01.751Z",
+    "updated_at": "2021-01-13T20:17:01.751Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1357.051,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "free",
+      "fragments": [
+        {
+          "text": "free"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "62d28210-b0c1-4fc9-811a-7bf695485c3c",
+    "created_at": "2021-01-13T20:17:02.443Z",
+    "updated_at": "2021-01-13T20:17:02.443Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1357.743,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "top",
+      "fragments": [
+        {
+          "text": "top"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "b8aeb108-1382-45c1-a588-0d3923f07ea0",
+    "created_at": "2021-01-13T20:17:48.068Z",
+    "updated_at": "2021-01-13T20:17:48.068Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1403.368,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "no du -h gives you free space in current dir",
+      "fragments": [
+        {
+          "text": "no du -h gives you free space in current dir"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "53b7cd09-88ed-46cf-869c-5072f6f1b874",
+    "created_at": "2021-01-13T20:19:23.917Z",
+    "updated_at": "2021-01-13T20:19:23.917Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1499.217,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "cat /etc/os-release",
+      "fragments": [
+        {
+          "text": "cat /etc/os-release"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "65569f9a-cd7f-42a8-80ec-4c281846347e",
+    "created_at": "2021-01-13T20:19:28.413Z",
+    "updated_at": "2021-01-13T20:19:28.413Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1503.713,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "lsb_release",
+      "fragments": [
+        {
+          "text": "lsb_release"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "b298c88f-4823-43f7-b7cc-bc7ae6daf916",
+    "created_at": "2021-01-13T20:19:52.365Z",
+    "updated_at": "2021-01-13T20:19:52.365Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1527.665,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "uname -r",
+      "fragments": [
+        {
+          "text": "uname -r"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "927926bd-1edf-4c71-882a-dd3330cc444a",
+    "created_at": "2021-01-13T20:20:10.454Z",
+    "updated_at": "2021-01-13T20:20:10.454Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1545.754,
+    "commenter": {
+      "display_name": "Streamlabs",
+      "_id": "105166207",
+      "name": "streamlabs",
+      "type": "user",
+      "bio": "We make alerts and other tools for streamers!\rstreamlabs.com",
+      "created_at": "2015-10-25T14:19:16.301253Z",
+      "updated_at": "2021-01-13T18:38:47.350779Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/b856671e-63ed-45c5-a471-316fc1e3b83b-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "Subscribe to my YouTube channel to catch up on past hacking streams, exclusive content, and more! https://youtube.com/mbcrump?sub_confirmation=1",
+      "fragments": [
+        {
+          "text": "Subscribe to my YouTube channel to catch up on past hacking streams, exclusive content, and more! https://youtube.com/mbcrump?sub_confirmation=1"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "partner",
+          "version": "1"
+        }
+      ],
+      "user_color": "#32C3A2",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "156dce27-8b00-4d00-ae15-1ac11c225629",
+    "created_at": "2021-01-13T20:22:02.726Z",
+    "updated_at": "2021-01-13T20:22:02.726Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1658.026,
+    "commenter": {
+      "display_name": "Streamlabs",
+      "_id": "105166207",
+      "name": "streamlabs",
+      "type": "user",
+      "bio": "We make alerts and other tools for streamers!\rstreamlabs.com",
+      "created_at": "2015-10-25T14:19:16.301253Z",
+      "updated_at": "2021-01-13T18:38:47.350779Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/b856671e-63ed-45c5-a471-316fc1e3b83b-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "Thank you for following sblu1977!",
+      "fragments": [
+        {
+          "text": "Thank you for following sblu1977!"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "partner",
+          "version": "1"
+        }
+      ],
+      "user_color": "#32C3A2",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "3760dcf0-f986-4b35-8c08-4b03986e6d8d",
+    "created_at": "2021-01-13T20:22:09.928Z",
+    "updated_at": "2021-01-13T20:22:09.928Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1665.228,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "ctrl + z to suspend",
+      "fragments": [
+        {
+          "text": "ctrl + z to suspend"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "e8102b5e-1489-49b9-b9c7-062c3a7990fa",
+    "created_at": "2021-01-13T20:22:27.894Z",
+    "updated_at": "2021-01-13T20:22:27.894Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1683.194,
+    "commenter": {
+      "display_name": "mbcrump",
+      "_id": "122162725",
+      "name": "mbcrump",
+      "type": "user",
+      "bio": "Christ follower that streams family-friendly ethical hacking, CTF challenges, live coding (python and C#), Linux awesomeness and more! ",
+      "created_at": "2016-04-19T01:20:34.340591Z",
+      "updated_at": "2021-01-13T17:30:40.925926Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/5920dfc7-9053-4e9f-87b3-753fbeea030d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "mbcrumAnothaOne mbcrum1sttry mbcrumCtrlCandV mbcrumSecurity mbcrumAnothaOne mbcrum1sttry mbcrumCtrlCandV mbcrumSecurity mbcrumAnothaOne mbcrum1sttry mbcrumCtrlCandV mbcrumSecurity mbcrumAnothaOne mbcrum1sttry mbcrumCtrlCandV mbcrumSecurity",
+      "emoticons": [
+        {
+          "_id": "303634615",
+          "begin": 0,
+          "end": 14
+        },
+        {
+          "_id": "303634592",
+          "begin": 16,
+          "end": 27
+        },
+        {
+          "_id": "303634576",
+          "begin": 29,
+          "end": 43
+        },
+        {
+          "_id": "303044726",
+          "begin": 45,
+          "end": 58
+        },
+        {
+          "_id": "303634615",
+          "begin": 60,
+          "end": 74
+        },
+        {
+          "_id": "303634592",
+          "begin": 76,
+          "end": 87
+        },
+        {
+          "_id": "303634576",
+          "begin": 89,
+          "end": 103
+        },
+        {
+          "_id": "303044726",
+          "begin": 105,
+          "end": 118
+        },
+        {
+          "_id": "303634615",
+          "begin": 120,
+          "end": 134
+        },
+        {
+          "_id": "303634592",
+          "begin": 136,
+          "end": 147
+        },
+        {
+          "_id": "303634576",
+          "begin": 149,
+          "end": 163
+        },
+        {
+          "_id": "303044726",
+          "begin": 165,
+          "end": 178
+        },
+        {
+          "_id": "303634615",
+          "begin": 180,
+          "end": 194
+        },
+        {
+          "_id": "303634592",
+          "begin": 196,
+          "end": 207
+        },
+        {
+          "_id": "303634576",
+          "begin": 209,
+          "end": 223
+        },
+        {
+          "_id": "303044726",
+          "begin": 225,
+          "end": 238
+        }
+      ],
+      "fragments": [
+        {
+          "text": "mbcrumAnothaOne",
+          "emoticon": {
+            "emoticon_id": "303634615",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrum1sttry",
+          "emoticon": {
+            "emoticon_id": "303634592",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumCtrlCandV",
+          "emoticon": {
+            "emoticon_id": "303634576",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumSecurity",
+          "emoticon": {
+            "emoticon_id": "303044726",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumAnothaOne",
+          "emoticon": {
+            "emoticon_id": "303634615",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrum1sttry",
+          "emoticon": {
+            "emoticon_id": "303634592",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumCtrlCandV",
+          "emoticon": {
+            "emoticon_id": "303634576",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumSecurity",
+          "emoticon": {
+            "emoticon_id": "303044726",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumAnothaOne",
+          "emoticon": {
+            "emoticon_id": "303634615",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrum1sttry",
+          "emoticon": {
+            "emoticon_id": "303634592",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumCtrlCandV",
+          "emoticon": {
+            "emoticon_id": "303634576",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumSecurity",
+          "emoticon": {
+            "emoticon_id": "303044726",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumAnothaOne",
+          "emoticon": {
+            "emoticon_id": "303634615",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrum1sttry",
+          "emoticon": {
+            "emoticon_id": "303634592",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumCtrlCandV",
+          "emoticon": {
+            "emoticon_id": "303634576",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mbcrumSecurity",
+          "emoticon": {
+            "emoticon_id": "303044726",
+            "emoticon_set_id": ""
+          }
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "broadcaster",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        },
+        {
+          "_id": "sub-gifter",
+          "version": "50"
+        }
+      ],
+      "user_color": "#008000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "0459e96b-94f7-41be-9e89-2ffc0da901ba",
+    "created_at": "2021-01-13T20:22:53.519Z",
+    "updated_at": "2021-01-13T20:22:53.519Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1708.819,
+    "commenter": {
+      "display_name": "mbcrump",
+      "_id": "122162725",
+      "name": "mbcrump",
+      "type": "user",
+      "bio": "Christ follower that streams family-friendly ethical hacking, CTF challenges, live coding (python and C#), Linux awesomeness and more! ",
+      "created_at": "2016-04-19T01:20:34.340591Z",
+      "updated_at": "2021-01-13T17:30:40.925926Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/5920dfc7-9053-4e9f-87b3-753fbeea030d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "View recordings of this stream (including fastcuts) on my YouTube https://www.youtube.com/user/mbcrump/",
+      "fragments": [
+        {
+          "text": "View recordings of this stream (including fastcuts) on my YouTube https://www.youtube.com/user/mbcrump/"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "broadcaster",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        },
+        {
+          "_id": "sub-gifter",
+          "version": "50"
+        }
+      ],
+      "user_color": "#008000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "b67f35c4-162d-4347-af85-5bab6b70ebfa",
+    "created_at": "2021-01-13T20:24:03.857Z",
+    "updated_at": "2021-01-13T20:24:03.857Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1779.157,
+    "commenter": {
+      "display_name": "Streamlabs",
+      "_id": "105166207",
+      "name": "streamlabs",
+      "type": "user",
+      "bio": "We make alerts and other tools for streamers!\rstreamlabs.com",
+      "created_at": "2015-10-25T14:19:16.301253Z",
+      "updated_at": "2021-01-13T18:38:47.350779Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/b856671e-63ed-45c5-a471-316fc1e3b83b-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "Wanna be a part of our team? We need some help with promoting, editing, and more! Perks included! https://forms.gle/1uHBYHCTJZv6sUv69",
+      "fragments": [
+        {
+          "text": "Wanna be a part of our team? We need some help with promoting, editing, and more! Perks included! https://forms.gle/1uHBYHCTJZv6sUv69"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "partner",
+          "version": "1"
+        }
+      ],
+      "user_color": "#32C3A2",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "2fb6f2e7-cd49-4ddb-b595-09a6dca311bf",
+    "created_at": "2021-01-13T20:24:28.489Z",
+    "updated_at": "2021-01-13T20:24:28.489Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1803.789,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "top",
+      "fragments": [
+        {
+          "text": "top"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "245705b2-b1db-441b-8b7d-7a305b472f61",
+    "created_at": "2021-01-13T20:25:57.118Z",
+    "updated_at": "2021-01-13T20:25:57.118Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1892.418,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "ps aux --forest gives a nice layout",
+      "fragments": [
+        {
+          "text": "ps aux --forest gives a nice layout"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "e2d0fb02-9658-4499-9636-e1989b3c76de",
+    "created_at": "2021-01-13T20:26:38.386Z",
+    "updated_at": "2021-01-13T20:26:38.386Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1933.686,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "it lists all the subprocesses",
+      "fragments": [
+        {
+          "text": "it lists all the subprocesses"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "604ff46a-25ac-452c-9d50-9026797d85b7",
+    "created_at": "2021-01-13T20:26:41.958Z",
+    "updated_at": "2021-01-13T20:26:41.958Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1937.258,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "as a layout",
+      "fragments": [
+        {
+          "text": "as a layout"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "f535417b-9379-4d6c-bf70-10f2a5d16bd5",
+    "created_at": "2021-01-13T20:26:48.432Z",
+    "updated_at": "2021-01-13T20:26:48.432Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 1943.732,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "like a tree structure",
+      "fragments": [
+        {
+          "text": "like a tree structure"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "2f40a5b0-e186-4764-a415-71be51f58a37",
+    "created_at": "2021-01-13T20:28:38.515Z",
+    "updated_at": "2021-01-13T20:28:38.515Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2053.815,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "--forest is important fromm a blue teamers perspective. If someone drops in a shell in your comp you would know which application they exploited",
+      "fragments": [
+        {
+          "text": "--forest is important fromm a blue teamers perspective. If someone drops in a shell in your comp you would know which application they exploited"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "4bdcda38-0d3a-43a3-8885-9d89a6245d34",
+    "created_at": "2021-01-13T20:28:48.967Z",
+    "updated_at": "2021-01-13T20:28:48.967Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2064.267,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "htop is cool",
+      "fragments": [
+        {
+          "text": "htop is cool"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "bbf1cc45-9ee3-4b21-9aeb-d1ecf46e8b4a",
+    "created_at": "2021-01-13T20:29:19.435Z",
+    "updated_at": "2021-01-13T20:29:19.435Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2094.735,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "no didnt new about that",
+      "fragments": [
+        {
+          "text": "no didnt new about that"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "182f87c6-3fa5-4ac6-ab5e-954da005d1b2",
+    "created_at": "2021-01-13T20:29:42.496Z",
+    "updated_at": "2021-01-13T20:29:42.496Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2117.796,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "man nice",
+      "fragments": [
+        {
+          "text": "man nice"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "1b235464-3005-48fb-b3d9-76a720a70bdd",
+    "created_at": "2021-01-13T20:30:07.082Z",
+    "updated_at": "2021-01-13T20:30:07.082Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2142.382,
+    "commenter": {
+      "display_name": "Streamlabs",
+      "_id": "105166207",
+      "name": "streamlabs",
+      "type": "user",
+      "bio": "We make alerts and other tools for streamers!\rstreamlabs.com",
+      "created_at": "2015-10-25T14:19:16.301253Z",
+      "updated_at": "2021-01-13T18:38:47.350779Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/b856671e-63ed-45c5-a471-316fc1e3b83b-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "Join our Discord to keep the conversation going after the stream! https://discord.gg/qrGrx8m",
+      "fragments": [
+        {
+          "text": "Join our Discord to keep the conversation going after the stream! https://discord.gg/qrGrx8m"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "partner",
+          "version": "1"
+        }
+      ],
+      "user_color": "#32C3A2",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "2f10d12d-18c4-42c9-857e-4b7c872a3233",
+    "created_at": "2021-01-13T20:30:53.7Z",
+    "updated_at": "2021-01-13T20:30:53.7Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2189,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "ohh that is nice",
+      "fragments": [
+        {
+          "text": "ohh that is nice"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "4d396620-2e3f-44f8-acee-c88b898953e1",
+    "created_at": "2021-01-13T20:31:56.546Z",
+    "updated_at": "2021-01-13T20:31:56.546Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2251.846,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "you can scroll",
+      "fragments": [
+        {
+          "text": "you can scroll"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "35270e52-e8b0-4531-b1b2-8dd43f3e977e",
+    "created_at": "2021-01-13T20:32:28.061Z",
+    "updated_at": "2021-01-13T20:32:28.061Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2283.361,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "you could use pgrep python3",
+      "fragments": [
+        {
+          "text": "you could use pgrep python3"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "2fe6f5fe-b464-4dc0-97bb-e050ad05a4a2",
+    "created_at": "2021-01-13T20:32:32.557Z",
+    "updated_at": "2021-01-13T20:32:32.557Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2287.857,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "to get the pid",
+      "fragments": [
+        {
+          "text": "to get the pid"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "d1d77b22-baab-43e8-8278-27c2fb3fc5f5",
+    "created_at": "2021-01-13T20:32:44.022Z",
+    "updated_at": "2021-01-13T20:32:44.022Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2299.322,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "top | grep python3",
+      "fragments": [
+        {
+          "text": "top | grep python3"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "8b153b27-9a27-48bc-9928-cc99b02bf473",
+    "created_at": "2021-01-13T20:32:55.929Z",
+    "updated_at": "2021-01-13T20:32:55.929Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2311.229,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "pipe grep python3",
+      "fragments": [
+        {
+          "text": "pipe grep python3"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "4ef670f9-ed72-4407-bc1e-2b6b856b86cd",
+    "created_at": "2021-01-13T20:33:33.307Z",
+    "updated_at": "2021-01-13T20:33:33.307Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2348.607,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "ps aux | grep python3",
+      "fragments": [
+        {
+          "text": "ps aux | grep python3"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "05aaffcf-74a4-4599-a867-251517ea7800",
+    "created_at": "2021-01-13T20:33:50.978Z",
+    "updated_at": "2021-01-13T20:33:50.978Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2366.278,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "pipe with ps",
+      "fragments": [
+        {
+          "text": "pipe with ps"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "0b48de64-edb3-45c8-bfbb-eb279f589267",
+    "created_at": "2021-01-13T20:34:06.067Z",
+    "updated_at": "2021-01-13T20:34:06.067Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2381.367,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "you could use killall python3",
+      "fragments": [
+        {
+          "text": "you could use killall python3"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "ba9eb156-698a-4603-ac20-75fb0f794a02",
+    "created_at": "2021-01-13T20:34:11.413Z",
+    "updated_at": "2021-01-13T20:34:11.413Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2386.713,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "without knowing the pid",
+      "fragments": [
+        {
+          "text": "without knowing the pid"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "1dc73bbf-0a31-4d4d-975e-41a3ab8d9519",
+    "created_at": "2021-01-13T20:36:00.707Z",
+    "updated_at": "2021-01-13T20:36:00.707Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2496.007,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "try xkill .. run xkill and go to any window taskbar and will kill it",
+      "fragments": [
+        {
+          "text": "try xkill .. run xkill and go to any window taskbar and will kill it"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "2329fcda-7182-41d3-883d-b59e9395afca",
+    "created_at": "2021-01-13T20:36:19.751Z",
+    "updated_at": "2021-01-13T20:36:19.751Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2515.051,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "like on firefox to kill firefox",
+      "fragments": [
+        {
+          "text": "like on firefox to kill firefox"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "129ecfef-2902-4e00-8ed3-36b8285d7546",
+    "created_at": "2021-01-13T20:37:12.037Z",
+    "updated_at": "2021-01-13T20:37:12.037Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2567.337,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "oh yeah this is cool @manna_soumya. I have set this to a key bind",
+      "fragments": [
+        {
+          "text": "oh yeah this is cool @manna_soumya. I have set this to a key bind"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "538838ee-1253-4cc7-8e58-abfcd4d58193",
+    "created_at": "2021-01-13T20:37:43.648Z",
+    "updated_at": "2021-01-13T20:37:43.648Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2598.948,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "--help",
+      "fragments": [
+        {
+          "text": "--help"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "b44affce-d856-4358-b895-489f865d7521",
+    "created_at": "2021-01-13T20:37:46.865Z",
+    "updated_at": "2021-01-13T20:37:46.865Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2602.165,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "yes",
+      "fragments": [
+        {
+          "text": "yes"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "21c234fb-7ef6-4d52-90a2-337c139b3f4f",
+    "created_at": "2021-01-13T20:39:42.431Z",
+    "updated_at": "2021-01-13T20:39:42.431Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2717.731,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "yeah I have seen it",
+      "fragments": [
+        {
+          "text": "yeah I have seen it"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "78c38329-463f-4e09-b82e-2c7a5fc65efd",
+    "created_at": "2021-01-13T20:40:13.124Z",
+    "updated_at": "2021-01-13T20:40:13.124Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2748.424,
+    "commenter": {
+      "display_name": "Streamlabs",
+      "_id": "105166207",
+      "name": "streamlabs",
+      "type": "user",
+      "bio": "We make alerts and other tools for streamers!\rstreamlabs.com",
+      "created_at": "2015-10-25T14:19:16.301253Z",
+      "updated_at": "2021-01-13T18:38:47.350779Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/b856671e-63ed-45c5-a471-316fc1e3b83b-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "Subscribe to my YouTube channel to catch up on past hacking streams, exclusive content, and more! https://youtube.com/mbcrump?sub_confirmation=1",
+      "fragments": [
+        {
+          "text": "Subscribe to my YouTube channel to catch up on past hacking streams, exclusive content, and more! https://youtube.com/mbcrump?sub_confirmation=1"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "partner",
+          "version": "1"
+        }
+      ],
+      "user_color": "#32C3A2",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "f961b672-4bc8-4466-aa69-b0751dd052ec",
+    "created_at": "2021-01-13T20:40:16.86Z",
+    "updated_at": "2021-01-13T20:40:16.86Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2752.16,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "When is the next Socail Engineering session? LUL LUL",
+      "emoticons": [
+        {
+          "_id": "425618",
+          "begin": 45,
+          "end": 47
+        },
+        {
+          "_id": "425618",
+          "begin": 49,
+          "end": 51
+        }
+      ],
+      "fragments": [
+        {
+          "text": "When is the next Socail Engineering session? "
+        },
+        {
+          "text": "LUL",
+          "emoticon": {
+            "emoticon_id": "425618",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "LUL",
+          "emoticon": {
+            "emoticon_id": "425618",
+            "emoticon_set_id": ""
+          }
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "3abfcafa-193e-42a6-a96f-180485a69210",
+    "created_at": "2021-01-13T20:40:24.342Z",
+    "updated_at": "2021-01-13T20:40:24.342Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2759.642,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "appropos?",
+      "fragments": [
+        {
+          "text": "appropos?"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "c4fecc6a-f907-4df7-a9f7-ae421a85e78d",
+    "created_at": "2021-01-13T20:40:59.505Z",
+    "updated_at": "2021-01-13T20:40:59.505Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2794.805,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "Ahhh didnt knew about that",
+      "fragments": [
+        {
+          "text": "Ahhh didnt knew about that"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "3bb1d9bd-e2cc-4552-8da1-822acb32387e",
+    "created_at": "2021-01-13T20:41:08.103Z",
+    "updated_at": "2021-01-13T20:41:08.103Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2803.403,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "that is a whole lot of docs",
+      "fragments": [
+        {
+          "text": "that is a whole lot of docs"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "74a9de2a-d2cc-43c3-848a-6cc837b23ae1",
+    "created_at": "2021-01-13T20:42:41.407Z",
+    "updated_at": "2021-01-13T20:42:41.407Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 2896.707,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "u can always pipe with more",
+      "fragments": [
+        {
+          "text": "u can always pipe with more"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "d1e1dc11-5816-48c3-8e6b-ff25fbbeff69",
+    "created_at": "2021-01-13T20:44:56.658Z",
+    "updated_at": "2021-01-13T20:44:56.658Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3031.958,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "yeahh l ess is more",
+      "fragments": [
+        {
+          "text": "yeahh l ess is more"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "ed9b32b7-7f99-4a0a-8031-f34eff636e43",
+    "created_at": "2021-01-13T20:45:08.401Z",
+    "updated_at": "2021-01-13T20:45:08.401Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3043.701,
+    "commenter": {
+      "display_name": "Streamlabs",
+      "_id": "105166207",
+      "name": "streamlabs",
+      "type": "user",
+      "bio": "We make alerts and other tools for streamers!\rstreamlabs.com",
+      "created_at": "2015-10-25T14:19:16.301253Z",
+      "updated_at": "2021-01-13T18:38:47.350779Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/b856671e-63ed-45c5-a471-316fc1e3b83b-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "Follow Michael on Twitter at https://twitter.com/mbcrump because he is a nice guy and appreciates you spending time with him today.",
+      "fragments": [
+        {
+          "text": "Follow Michael on Twitter at https://twitter.com/mbcrump because he is a nice guy and appreciates you spending time with him today."
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "partner",
+          "version": "1"
+        }
+      ],
+      "user_color": "#32C3A2",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "d73f6e82-d7dc-4f66-92cc-79de87db3db7",
+    "created_at": "2021-01-13T20:46:05.731Z",
+    "updated_at": "2021-01-13T20:46:05.731Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3101.031,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "You really need to clean up your downloads folder LUL LUL",
+      "emoticons": [
+        {
+          "_id": "425618",
+          "begin": 50,
+          "end": 52
+        },
+        {
+          "_id": "425618",
+          "begin": 54,
+          "end": 56
+        }
+      ],
+      "fragments": [
+        {
+          "text": "You really need to clean up your downloads folder "
+        },
+        {
+          "text": "LUL",
+          "emoticon": {
+            "emoticon_id": "425618",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "LUL",
+          "emoticon": {
+            "emoticon_id": "425618",
+            "emoticon_set_id": ""
+          }
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "e9d62e1b-a367-4c77-ae72-8ad32f514d2b",
+    "created_at": "2021-01-13T20:47:07.938Z",
+    "updated_at": "2021-01-13T20:47:07.938Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3163.238,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "alf.png",
+      "fragments": [
+        {
+          "text": "alf.png"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "242958b3-54a4-4ff9-ad0c-374294049d7b",
+    "created_at": "2021-01-13T20:47:19.448Z",
+    "updated_at": "2021-01-13T20:47:19.448Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3174.748,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "thor",
+      "fragments": [
+        {
+          "text": "thor"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "e3a552c3-61be-46be-9d79-96ba17b0478a",
+    "created_at": "2021-01-13T20:48:29.52Z",
+    "updated_at": "2021-01-13T20:48:29.52Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3244.82,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "binwalk",
+      "fragments": [
+        {
+          "text": "binwalk"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "5fe8de9b-2717-4cc7-bc1d-d44fb6c1b7fa",
+    "created_at": "2021-01-13T20:48:45.316Z",
+    "updated_at": "2021-01-13T20:48:45.316Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3260.616,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "damm you even has those 50 zip files that we automated LUL LUL LUL",
+      "emoticons": [
+        {
+          "_id": "425618",
+          "begin": 55,
+          "end": 57
+        },
+        {
+          "_id": "425618",
+          "begin": 59,
+          "end": 61
+        },
+        {
+          "_id": "425618",
+          "begin": 63,
+          "end": 65
+        }
+      ],
+      "fragments": [
+        {
+          "text": "damm you even has those 50 zip files that we automated "
+        },
+        {
+          "text": "LUL",
+          "emoticon": {
+            "emoticon_id": "425618",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "LUL",
+          "emoticon": {
+            "emoticon_id": "425618",
+            "emoticon_set_id": ""
+          }
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "LUL",
+          "emoticon": {
+            "emoticon_id": "425618",
+            "emoticon_set_id": ""
+          }
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "007277ca-5a30-4bb9-8481-5554b4ddca60",
+    "created_at": "2021-01-13T20:48:52.364Z",
+    "updated_at": "2021-01-13T20:48:52.364Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3267.664,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "strings",
+      "fragments": [
+        {
+          "text": "strings"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "5f254451-2bc0-4299-9a85-c90270c82dcd",
+    "created_at": "2021-01-13T20:49:03.861Z",
+    "updated_at": "2021-01-13T20:49:03.861Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3279.161,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "hahahahah",
+      "fragments": [
+        {
+          "text": "hahahahah"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "2a93d2d4-1120-4517-80e8-7083e3e8e302",
+    "created_at": "2021-01-13T20:49:20.266Z",
+    "updated_at": "2021-01-13T20:49:20.266Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3295.566,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "I am on your file sys",
+      "fragments": [
+        {
+          "text": "I am on your file sys"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "17c55f10-8a88-4fb1-8487-6b49919018c6",
+    "created_at": "2021-01-13T20:49:34.139Z",
+    "updated_at": "2021-01-13T20:49:34.139Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3309.439,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "nah never used od. ojeez",
+      "fragments": [
+        {
+          "text": "nah never used od. ojeez"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "6d41baaf-3e9e-48fc-ad05-8cf5925ee984",
+    "created_at": "2021-01-13T20:49:48.911Z",
+    "updated_at": "2021-01-13T20:49:48.911Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3324.211,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "binwalk and file",
+      "fragments": [
+        {
+          "text": "binwalk and file"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "40f2586d-fc72-4f37-8800-0565c34cd8d6",
+    "created_at": "2021-01-13T20:49:54.349Z",
+    "updated_at": "2021-01-13T20:49:54.349Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3329.649,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "@manna_soumya Yeah binwalk is erally useful",
+      "fragments": [
+        {
+          "text": "@manna_soumya Yeah binwalk is erally useful"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "0cb628bd-06c4-42b0-aab6-9a7c8becec55",
+    "created_at": "2021-01-13T20:49:56.27Z",
+    "updated_at": "2021-01-13T20:49:56.27Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3331.57,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "hexdump",
+      "fragments": [
+        {
+          "text": "hexdump"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "0d120538-30c5-43e9-bfde-875efc6edede",
+    "created_at": "2021-01-13T20:50:17.438Z",
+    "updated_at": "2021-01-13T20:50:17.438Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3352.738,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "ohh octaldump",
+      "fragments": [
+        {
+          "text": "ohh octaldump"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "20bf173a-93d7-47e8-b41c-93fb93368e98",
+    "created_at": "2021-01-13T20:50:34.493Z",
+    "updated_at": "2021-01-13T20:50:34.493Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3369.793,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "od is octal dump",
+      "fragments": [
+        {
+          "text": "od is octal dump"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "67f58a8f-dfbb-4809-a402-150ffd362590",
+    "created_at": "2021-01-13T20:50:42.501Z",
+    "updated_at": "2021-01-13T20:50:42.501Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3377.801,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "like hexdump",
+      "fragments": [
+        {
+          "text": "like hexdump"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "73c82e4d-8ea6-4301-8489-2d711784a076",
+    "created_at": "2021-01-13T20:50:44.505Z",
+    "updated_at": "2021-01-13T20:50:44.505Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3379.805,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "I have used diff",
+      "fragments": [
+        {
+          "text": "I have used diff"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "324ccbce-6a89-434d-855a-a5e83b8b65ed",
+    "created_at": "2021-01-13T20:52:42.197Z",
+    "updated_at": "2021-01-13T20:52:42.197Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3497.497,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "binwal was built in from backtrack",
+      "fragments": [
+        {
+          "text": "binwal was built in from backtrack"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "9032869e-5ecd-4eaa-8b45-5c44b83f82b4",
+    "created_at": "2021-01-13T20:52:56.218Z",
+    "updated_at": "2021-01-13T20:52:56.218Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3511.518,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "and from kali rolling 1",
+      "fragments": [
+        {
+          "text": "and from kali rolling 1"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "565258cc-5a1f-4894-9d10-251a6b8ea8cf",
+    "created_at": "2021-01-13T20:53:20.456Z",
+    "updated_at": "2021-01-13T20:53:20.456Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3535.756,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "binwalk is not built in on linux other than Kali",
+      "fragments": [
+        {
+          "text": "binwalk is not built in on linux other than Kali"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "ccf3f201-92ab-40e8-9c20-f4627ed2f9c5",
+    "created_at": "2021-01-13T20:54:51.657Z",
+    "updated_at": "2021-01-13T20:54:51.657Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3626.957,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "i don't use kali.. i have my debian configured with all tools .. kali and backtrack5 had binwal natively",
+      "fragments": [
+        {
+          "text": "i don't use kali.. i have my debian configured with all tools .. kali and backtrack5 had binwal natively"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "479f743a-33e2-4534-a741-ff3dd5f868ff",
+    "created_at": "2021-01-13T20:56:40.693Z",
+    "updated_at": "2021-01-13T20:56:40.693Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3735.993,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "Thanks for the stream. 1 hour just flew so fast",
+      "fragments": [
+        {
+          "text": "Thanks for the stream. 1 hour just flew so fast"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "78a38b84-15b2-4860-ada2-9c480057c1a6",
+    "created_at": "2021-01-13T20:56:44.686Z",
+    "updated_at": "2021-01-13T20:56:44.686Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3739.986,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "see ya all",
+      "fragments": [
+        {
+          "text": "see ya all"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "71af403c-8a8d-4bbf-b241-7a2de100621c",
+    "created_at": "2021-01-13T20:56:52.04Z",
+    "updated_at": "2021-01-13T20:56:52.04Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3747.34,
+    "commenter": {
+      "display_name": "chege54",
+      "_id": "239808264",
+      "name": "chege54",
+      "type": "user",
+      "bio": null,
+      "created_at": "2018-07-18T17:07:39.526836Z",
+      "updated_at": "2021-01-13T20:56:52.238513Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "thank you so much!",
+      "fragments": [
+        {
+          "text": "thank you so much!"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "b0622906-0447-410e-9365-0876f0fd1bc8",
+    "created_at": "2021-01-13T20:56:56.102Z",
+    "updated_at": "2021-01-13T20:56:56.102Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3751.402,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "really excited for hackerbox",
+      "fragments": [
+        {
+          "text": "really excited for hackerbox"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "ed8559be-71b6-4bfc-a9f5-30b4a68b5a9a",
+    "created_at": "2021-01-13T20:56:57.351Z",
+    "updated_at": "2021-01-13T20:56:57.351Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3752.651,
+    "commenter": {
+      "display_name": "Illemento",
+      "_id": "81449845",
+      "name": "illemento",
+      "type": "user",
+      "bio": "World of Warcraft ",
+      "created_at": "2015-01-31T20:51:56.802047Z",
+      "updated_at": "2021-01-05T10:42:21.649593Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "Good evening",
+      "fragments": [
+        {
+          "text": "Good evening"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#0000FF",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "b58733c0-1737-4ec3-b776-937fe978422f",
+    "created_at": "2021-01-13T20:56:58.136Z",
+    "updated_at": "2021-01-13T20:56:58.136Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3753.436,
+    "commenter": {
+      "display_name": "mbcrump",
+      "_id": "122162725",
+      "name": "mbcrump",
+      "type": "user",
+      "bio": "Christ follower that streams family-friendly ethical hacking, CTF challenges, live coding (python and C#), Linux awesomeness and more! ",
+      "created_at": "2016-04-19T01:20:34.340591Z",
+      "updated_at": "2021-01-13T17:30:40.925926Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/5920dfc7-9053-4e9f-87b3-753fbeea030d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "View recordings of this stream (including fastcuts) on my YouTube https://www.youtube.com/user/mbcrump/",
+      "fragments": [
+        {
+          "text": "View recordings of this stream (including fastcuts) on my YouTube https://www.youtube.com/user/mbcrump/"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "broadcaster",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        },
+        {
+          "_id": "sub-gifter",
+          "version": "50"
+        }
+      ],
+      "user_color": "#008000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "b2ce56e8-3f80-4aad-8e87-c22c7e1755a9",
+    "created_at": "2021-01-13T20:57:03.724Z",
+    "updated_at": "2021-01-13T20:57:03.724Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3759.024,
+    "commenter": {
+      "display_name": "Illemento",
+      "_id": "81449845",
+      "name": "illemento",
+      "type": "user",
+      "bio": "World of Warcraft ",
+      "created_at": "2015-01-31T20:51:56.802047Z",
+      "updated_at": "2021-01-05T10:42:21.649593Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "too late",
+      "fragments": [
+        {
+          "text": "too late"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#0000FF",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "e71f56cf-243b-4ad3-ba8d-f0a7b93d6b06",
+    "created_at": "2021-01-13T20:57:11.602Z",
+    "updated_at": "2021-01-13T20:57:11.602Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3766.902,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "heheh @Illemento",
+      "fragments": [
+        {
+          "text": "heheh @Illemento"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "c1ba0359-9e49-4b0f-9866-198c98770f27",
+    "created_at": "2021-01-13T20:57:19.677Z",
+    "updated_at": "2021-01-13T20:57:19.677Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3774.977,
+    "commenter": {
+      "display_name": "manna_soumya",
+      "_id": "539094273",
+      "name": "manna_soumya",
+      "type": "user",
+      "bio": "Coder, Funny, traveller, thinker, maths philo junkie, photography 🤔 and that's it I guess... ",
+      "created_at": "2020-06-03T14:54:14.248483Z",
+      "updated_at": "2021-01-13T20:07:43.036502Z",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/198d51a6-ebe2-4c96-839d-c5119c0c5a21-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "thanks",
+      "fragments": [
+        {
+          "text": "thanks"
+        }
+      ],
+      "is_action": false,
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "77764d9a-3a3f-4a20-bcd9-dc4cf81df14d",
+    "created_at": "2021-01-13T20:57:20Z",
+    "updated_at": "2021-01-13T20:57:20Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3775.3,
+    "commenter": {
+      "display_name": "smash8tap",
+      "_id": "163843859",
+      "name": "smash8tap",
+      "type": "user",
+      "bio": null,
+      "created_at": "2017-07-10T06:26:43.635719Z",
+      "updated_at": "2021-01-13T20:53:20.56374Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "it was a short stream",
+      "fragments": [
+        {
+          "text": "it was a short stream"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "moderator",
+          "version": "1"
+        },
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#FF0000",
+      "user_notice_params": {}
+    }
+  },
+  {
+    "_id": "53d5efc7-3c6b-4725-a19e-e490cab78780",
+    "created_at": "2021-01-13T20:57:34.959Z",
+    "updated_at": "2021-01-13T20:57:34.959Z",
+    "channel_id": "122162725",
+    "content_type": "video",
+    "content_id": "872364691",
+    "content_offset_seconds": 3790.259,
+    "commenter": {
+      "display_name": "Illemento",
+      "_id": "81449845",
+      "name": "illemento",
+      "type": "user",
+      "bio": "World of Warcraft ",
+      "created_at": "2015-01-31T20:51:56.802047Z",
+      "updated_at": "2021-01-05T10:42:21.649593Z",
+      "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png"
+    },
+    "source": "chat",
+    "state": "published",
+    "message": {
+      "body": "its me getting to my job always 5 min to late",
+      "fragments": [
+        {
+          "text": "its me getting to my job always 5 min to late"
+        }
+      ],
+      "is_action": false,
+      "user_badges": [
+        {
+          "_id": "subscriber",
+          "version": "0"
+        }
+      ],
+      "user_color": "#0000FF",
+      "user_notice_params": {}
+    }
+  }
+]
+}
