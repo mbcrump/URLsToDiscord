@@ -7,9 +7,13 @@
 
   <ItemGroup>
     <None Remove="807537206_chat.json" />
+    <None Remove="807537206_chat.json.bak" />
+    <None Remove="mbcrump-twitch01102021.json" />
+    <None Remove="mbcrump-twitch01132021.json" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Discord.Net" Version="2.2.0" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
   </ItemGroup>
 
@@ -17,12 +21,6 @@
     <Resource Include="807537206_chat.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Update="mbcrump-twitch01132021.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
   </ItemGroup>
 
 </Project>
