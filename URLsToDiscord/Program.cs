@@ -5,25 +5,26 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
+using System.Threading;
 
 namespace UrlsToDiscord
 {
     class Program
     {
-       
+
         static void Main(string[] args)
         {
-            string path = @"/home/mbcrump/src/twitchjsonparser/twitchjsonparser/bin/Debug/netcoreapp3.1/mbcrump-twitch" + DateTime.Now.ToString("MMddyyyy") + ".json";
+            string path = "/home/mbcrump/src/twitchjsonparser/twitchjsonparser/bin/Debug/netcoreapp3.1/mbcrump-twitch" + DateTime.Now.ToString("MMddyyyy") + ".json";
             if (!File.Exists(path))
             {
+                Console.WriteLine("Exiting");
                 Environment.Exit(0);
-                //Console.WriteLine("The file exists.");
             }
 
             List<string> myList = new List<string>();
             int counter = 0;
             string line;
-            string url = "put your webhook here";
+            string url = "your discord webhook";
 
 
             // Read the file and display it line by line.  
@@ -36,7 +37,7 @@ namespace UrlsToDiscord
                     if (!m.Value.StartsWith("https://static-cdn") && !m.Value.StartsWith("https://www.youtube.com/user/mbcrump") && !m.Value.StartsWith("https://youtube.com/mbcrump?sub_confirmation") && !m.Value.StartsWith("https://discord.gg/qrGrx8m"))
                     {
                         myList.Add(m.Value);
-                        //results += m.Value;
+                        Console.WriteLine(m.Value); //results += m.Value;
                     }
 
                 counter++;
@@ -44,11 +45,14 @@ namespace UrlsToDiscord
 
             file.Close();
             var noDupes = myList.Distinct().ToList();
-
+            // var result = noDupes.Aggregate((a, b) => a + ", " + b);
             for (int i = 0; i < noDupes.Count; i++)
             {
+                Thread.Sleep(5000);
                 sendWebHook(url, noDupes[i], "twitch-to-discord-bot");
             }
+            //Console.WriteLine(result);
+            //  sendWebHook(url, result, "twitch-to-discord-bot");
         }
 
         public static void sendWebHook(string URL, string msg, string username)
